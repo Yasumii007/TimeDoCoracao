@@ -1,4 +1,5 @@
 ﻿using System.Runtime.InteropServices;
+Console.Clear();
 
 Console.BackgroundColor = ConsoleColor.Red;
 Console.ForegroundColor = ConsoleColor.Black;
@@ -21,7 +22,6 @@ Console.Write("a");
 Console.ForegroundColor = ConsoleColor.Black;
 Console.BackgroundColor = ConsoleColor.Red;
 Console.Write("u");
-Console.ForegroundColor = ConsoleColor.Red;
 Console.BackgroundColor = ConsoleColor.White;
 Console.Write("l");
 Console.ForegroundColor = ConsoleColor.Black;
